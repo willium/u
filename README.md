@@ -8,10 +8,13 @@ CLI for opening URLs relevant to the current directory
 `u [shortcut]`
 
 #### add a URL
-`u add -s [SHORTCUT] -u [URL]`
+`u -s [SHORTCUT] -u [URL]`
+
+#### list available URLs
+`u -list`
 
 #### remove a URL
-`u remove -s [SHORTCUT]`
+`u -remove [SHORTCUT]`
 
 #### manually
 If you want add links manually, put a `u.yaml` file in an directory with key value associations between shortcuts and urls. 
