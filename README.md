@@ -11,10 +11,10 @@ CLI for opening URLs relevant to the current directory
 `u -s [SHORTCUT] -u [URL]`
 
 #### list available URLs
-`u -list`
+`u -l`
 
 #### remove a URL
-`u -remove [SHORTCUT]`
+`u -r [SHORTCUT]`
 
 #### manually
 If you want add links manually, put a `u.yaml` file in an directory with key value associations between shortcuts and urls. 
