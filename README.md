@@ -5,7 +5,7 @@ CLI for opening URLs relevant to the current directory
 ## How to use
 
 #### Navigate to a URL
-`u [shortcut]`
+`u [SHORTCUT]`
 
 #### add a URL
 `u -s [SHORTCUT] -u [URL]`
